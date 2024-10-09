@@ -7,8 +7,7 @@
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
